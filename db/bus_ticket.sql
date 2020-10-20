@@ -65,7 +65,6 @@ INSERT INTO `bus` (`bid`, `bname`, `type_ac`, `type_sl`) VALUES
 ('BB003', 'Volvo Travels', 'yes', 'yes'),
 ('BB004', 'Akota Travels', 'yes', 'yes'),
 ('BB005', 'SR Travels', 'yes', 'yes'),
-('BB006', 'Onabil Travels', 'no', 'no'),
 ('BB007', 'Shibpur Travels', 'yes', 'no'),
 ('BB008', 'Dhaka Travels', 'yes', 'yes'),
 ('BB009', 'Barisal Travels', 'no', 'no');
@@ -144,13 +143,10 @@ INSERT INTO `passenger` (`pid`, `name`, `email`, `mob`) VALUES
 ('1237378', 'kamal', 'rabby312@gmail.com', '123456789'),
 ('1237379', 'Rabby', 'rabby312@gmail.com', '123456777'),
 ('1237380', 'Rabby', 'rabby312@gmail.com', '123456777'),
-('1237381', 'Rabby', 'rabby312@gmail.com', '123456777'),
-('1237382', 'Rabby', 'rabby312@gmail.com', '123456777'),
 ('1237383', 'Rabby', 'rabby312@gmail.com', '123456777'),
 ('1237384', 'Rabby', 'rabby312@gmail.com', '1234567876'),
 ('1237385', 'kamal', 'rabby312@gmail.com', '1234545465'),
 ('1237386', 'kamal', 'rabby312@gmail.com', '1234545465'),
-('1237387', 'kamal', 'rabby312@gmail.com', '1234545465'),
 ('1237388', 'kamal', 'rabby312@gmail.com', '1234545465'),
 ('1237389', 'kamal', 'rabby312@gmail.com', '1234545465');
 
