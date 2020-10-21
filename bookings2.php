@@ -1,3 +1,4 @@
+//This is booking page 2 for easy travel
 <html>
 
 <head>
