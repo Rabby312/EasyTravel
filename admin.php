@@ -1,4 +1,4 @@
-//admin page
+
 <?php 
 
 $con=mysqli_connect("localhost","root","","bus_ticket");
