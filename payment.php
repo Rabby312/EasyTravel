@@ -1,3 +1,4 @@
+//This is payment page for easy travel
 <?php include 'selectedbus.php';
 $con=mysqli_connect("localhost","root","","bus_ticket");
 // Check connection
