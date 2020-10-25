@@ -2,6 +2,7 @@
 
 
 <?php 
+  //this is ticket page
 $con=mysqli_connect("localhost","root","","bus_ticket");
 if (mysqli_connect_errno())
   {
